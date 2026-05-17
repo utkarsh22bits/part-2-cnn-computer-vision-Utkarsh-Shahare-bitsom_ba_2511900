@@ -1,0 +1,19 @@
+# ────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# part-2-cnn-computer-vision
+#
+# ────────────────────────────────────────────────────────────────────────────
+
+# Core deep learning framework
+tensorflow
+
+# Data manipulation & numerical computing
+pandas
+numpy
+
+# Machine learning utilities (preprocessing, metrics, splits)
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
