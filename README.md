@@ -1,4 +1,4 @@
-# Part 2: Computer Vision Problem Formulation and CNN Prototype
+#part-2-cnn-computer-vision-formulation-and-CNN-prototype-Utkarsh-Shahare-bitsom_ba_2511900
 
 ## Overview
 CNN-based image classifier to detect surface defects in manufactured products.
