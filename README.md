@@ -1,4 +1,4 @@
-## part-2-cnn-computer-vision-formulation-and-CNN-prototype-Utkarsh-Shahare-bitsom_ba_2511900
+## Part-2-cnn-computer-vision-formulation-and-prototype-Utkarsh-Shahare-bitsom_ba_2511900
 
 ## Overview
 CNN-based image classifier to detect surface defects in manufactured products.
