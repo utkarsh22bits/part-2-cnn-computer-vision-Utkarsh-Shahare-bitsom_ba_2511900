@@ -7,6 +7,7 @@ CNN-based image classifier to detect surface defects in manufactured products.
 - Test Accuracy: 98.96%
 - F1-Score: 0.99 across all classes
 
+## Task 6
 ## CNN Concepts
 
 **What is Convolution?**
@@ -23,6 +24,7 @@ CNNs are designed specifically for image data. They can automatically detect imp
 
 **Why CNNs over regular networks?** CNNs use shared weights through convolution, dramatically reducing parameters. They also preserve spatial relationships between pixels, which regular networks ignore by flattening images.
 
+## Task 7
 ## Business Use Case: Manufacturing Quality Control
 This CNN can be deployed on a production line to automatically inspect products for surface defects. A camera captures images of each product; the model classifies them as normal or defective (dent/scratch/stain). This reduces manual inspection costs and improves detection speed and consistency.
 
